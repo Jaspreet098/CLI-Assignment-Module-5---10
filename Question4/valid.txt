@@ -1,0 +1,4 @@
+123@abc.com
+abc@domain.com
+john123@yahoo.com
+user1@gmail.com
